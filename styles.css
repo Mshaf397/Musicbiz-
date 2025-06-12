@@ -11,20 +11,6 @@ body {
   padding: 14px 0;
 }
 
-.navbar .nav-item {
-  color: dark-orange;
-  text-decoration: none;
-  padding: 14px 20px;
-  font-family: sans-serif;
-  font-size: 16px;
-  transition: background 0.3s;
-}
-
-.navbar .nav-item:hover {
-  background-color: #123231;
-  border-radius: 4px;
-}
-
 h1 {
   color: navy;
   text-align: center;
